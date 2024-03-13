@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm oss 👋
 
 <!--
 **sungsikoh/sungsikoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```C++
+#include <stdio.h>
+
+int main()
+{
+	unsigned long long dx = 0x1FE14B110;
+	while (dx)
+		putchar(0x736F6D6949482720 >> (((dx >>= 3) & 7) << 3) & 0xFF);
+	putchar('\n');
+
+	return 0;
+}
+```
