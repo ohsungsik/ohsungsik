@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![CodeWars](https://www.codewars.com/users/ohsungsik/badges/micro)
+
 ```C++
 #include <stdio.h>
 
@@ -28,6 +30,5 @@ int main()
 	return 0;
 }
 ```
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohsungsik&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-![CodeWars](https://www.codewars.com/users/ohsungsik/badges/micro)
+
