@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ![CodeWars](https://www.codewars.com/users/ohsungsik/badges/micro)
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/OHSungSik)](https://leetcode.com/OHSungSik)
+
 ```C++
 #include <stdio.h>
 
