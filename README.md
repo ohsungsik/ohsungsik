@@ -40,15 +40,6 @@ I'm a passionate developer primarily using C++ and ATL. I have a keen interest i
 ![Socket](https://img.shields.io/badge/Socket-000000?style=for-the-badge&logo=socket.io&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## Pinned Repositories
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ohsungsik&repo=BZIP&theme=radical)](https://github.com/ohsungsik/BZIP)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ohsungsik&repo=CodingTest&theme=radical)](https://github.com/ohsungsik/CodingTest)
-
-## Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sungsikoh)
-
 ## Fun fact
 ```C++
 #include <stdio.h>
