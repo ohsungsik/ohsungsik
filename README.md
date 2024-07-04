@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-I'm a passionate developer primarily using C++ and ATL. I have a keen interest in Win32 API, DirectX, and Socket programming. Currently, I'm focused on improving my problem-solving skills and contributing to open source projects.
+I'm a passionate developer primarily using C++ and ATL with a keen interest in the Win32 API, DirectX, and video processing. Currently, I'm focused on video processing using FFmpeg.
 
 <!-- - 🔭 I’m currently working on [LumiHDR](https://github.com/ohsungsik/LumiHDR) -->
 - 🌱 I’m currently learning computer graphics with DirectX, CUDA, and FFmpeg for video processing.
