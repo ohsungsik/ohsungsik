@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 I'm a passionate developer primarily using C++ and ATL. I have a keen interest in Win32 API, DirectX, and Socket programming. Currently, I'm focused on improving my problem-solving skills and contributing to open source projects.
 
 <!-- - 🔭 I’m currently working on [LumiHDR](https://github.com/ohsungsik/LumiHDR) -->
-- 🌱 I’m currently learning computer graphics with DirectX, CUDA, and advanced algorithms, and data structures
+- 🌱 I’m currently learning computer graphics with DirectX, CUDA, and FFmpeg for video processing.
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything related to C, C++, C#, Win32 API, DirectX, and Socket programming
 - 📫 How to reach me: [Contact me](mailto:dev.sungsikoh@gmail.com)
