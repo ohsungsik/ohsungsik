@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## About Me
 
 I'm a passionate developer primarily using C++ with a keen interest in the Win32 API, DirectX, and video processing.  
-Currently, I'm focused on video processing using FFmpeg.
+Currently, I'm focused on video processing.
 
 <!-- - 🔭 I’m currently working on [LumiHDR](https://github.com/ohsungsik/LumiHDR) -->
 - 🌱 I’m currently learning computer graphics with DirectX, CUDA, and FFmpeg for video processing.
