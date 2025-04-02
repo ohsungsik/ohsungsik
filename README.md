@@ -20,11 +20,12 @@ Here are some ideas to get you started:
 I'm a passionate developer primarily using C++ with a keen interest in the Win32 API, DirectX, and video processing.  
 Currently, I'm focused on video processing.
 
-<!-- - 🔭 I’m currently working on [LumiHDR](https://github.com/ohsungsik/LumiHDR) -->
+
 - 🌱 I’m currently learning computer graphics with DirectX, CUDA, and FFmpeg for video processing.
-<!-- - 👯 I’m looking to collaborate on open source projects -->
 - 💬 Ask me about anything related to C, C++, C#, Win32 API, DirectX, and Socket programming
 - 📫 How to reach me: [Contact me](mailto:dev.sungsikoh@gmail.com)
+<!-- - 🔭 I’m currently working on [LumiHDR](https://github.com/ohsungsik/LumiHDR) -->
+<!-- - 👯 I’m looking to collaborate on open source projects -->
 
 <!-- 
 ![CodeWars](https://www.codewars.com/users/ohsungsik/badges/micro) 
