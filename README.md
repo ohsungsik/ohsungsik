@@ -23,7 +23,7 @@ Currently, I'm focused on video processing.
 
 - 🌱 I’m currently learning computer graphics with DirectX, CUDA, and FFmpeg for video processing.
 - 💬 Ask me about anything related to C, C++, C#, Win32 API, DirectX, and Socket programming
-- 📫 How to reach me: [Contact me](mailto:dev.sungsikoh@gmail.com)
+- 📫 How to reach me: [Contact me](mailto:ohsungsik@outlook.com)
 <!-- - 🔭 I’m currently working on [LumiHDR](https://github.com/ohsungsik/LumiHDR) -->
 <!-- - 👯 I’m looking to collaborate on open source projects -->
 
